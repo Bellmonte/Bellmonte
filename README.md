@@ -1,14 +1,15 @@
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=+Olá,+sou+o+Belmonte!;Seja+bem-vindo!">
+  </a>
+</h1>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/Bellmonte"><img src="https://github-readme-stats-kohl-seven-72.vercel.app/api?username=Bellmonte&show_icons=true&theme=dracula" alt="Bellmonte GitHub Stats" height="lazy"></a>
   <a href="https://github.com/Bellmonte"><img src="https://github-readme-stats-kohl-seven-72.vercel.app/api/top-langs/?username=Bellmonte&layout=compact&theme=dracula" alt="Top Langs" height="lazy"></a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation">
-</div>
-
-
-<div style="display: inline-block"><br>
+<div align="center" style="display: inline-block"><br>
   <!-- Linguagens / Dados -->
   <img align="center" alt="Belmonte-Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -28,25 +29,24 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
+##
 
-<div> 
+<div align="center">  
   <!-- Redes Sociais -->
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/mbelmontee/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="mailto:belmonte.matheus@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="https://www.instagram.com/bellmonte_?igsh=MWF2MnNsdzFjNnVwcA==" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation">
+</div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=+Olá,+sou+o+Belmonte!;Seja+bem-vindo!">
-  </a>
-</h1>
+<div align="center">
+  <h2>Desenvolvedor BI SR | IA Aplicada & Automação | Power BI • n8n • Azure</h2>
+</div>
 
-
-
-**Desenvolvedor BI SR | IA Aplicada & Automação | Power BI • n8n • Azure**
 
 Transformo dados e processos em decisões automatizadas.  
 Hoje atuo construindo soluções que conectam **BI, IA e automação**, usando ferramentas como **Power BI, SQL, Python, Azure Synapse, Databricks e n8n** para criar pipelines escaláveis, dashboards analíticos e fluxos inteligentes que reduzem esforço manual e geram valor de negócio.
