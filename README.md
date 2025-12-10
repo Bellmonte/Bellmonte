@@ -64,11 +64,13 @@ combinação de **BI + Engenharia de Dados + Automação + Machine Learning**.
 > Os links abaixo são exemplos de como estruturo meus projetos.  
 > Cada repositório terá README detalhado com problema de negócio, arquitetura e resultados.
 
+**Em construção**
 
 ## 🧪 Backlog de futuros projetos
 
 Algumas ideias que pretendo desenvolver e publicar aqui:
 
+**Em construção**
 
 ---
 
