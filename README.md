@@ -1,7 +1,12 @@
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/Bellmonte"><img src="https://github-readme-stats-kohl-seven-72.vercel.app/api?username=Bellmonte&show_icons=true&theme=dracula" alt="Bellmonte GitHub Stats" height="180em"></a>
-  <a href="https://github.com/Bellmonte"><img src="https://github-readme-stats-kohl-seven-72.vercel.app/api/top-langs/?username=Bellmonte&layout=compact&theme=dracula" alt="Top Langs" height="180em"></a>
+  <a href="https://github.com/Bellmonte"><img src="https://github-readme-stats-kohl-seven-72.vercel.app/api?username=Bellmonte&show_icons=true&theme=dracula" alt="Bellmonte GitHub Stats" height="lazy"></a>
+  <a href="https://github.com/Bellmonte"><img src="https://github-readme-stats-kohl-seven-72.vercel.app/api/top-langs/?username=Bellmonte&layout=compact&theme=dracula" alt="Top Langs" height="lazy"></a>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WilsonFA/WilsonFA/output/snake.svg" alt="Snake animation">
+</div>
+
 
 <div style="display: inline-block"><br>
   <!-- Linguagens / Dados -->
