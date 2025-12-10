@@ -45,8 +45,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bellmonte/bellmonte/output/snake.svg" alt="Snake animation">
+<div align=center>
+  <img src="https://raw.githubusercontent.com/Bellmonte/Bellmonte/output/snake.svg" alt="Snake animation">  
 </div>
 
 <div align="center">
