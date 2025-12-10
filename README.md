@@ -1,3 +1,5 @@
+[![Bellmonte GitHub stats](https://github-readme-stats.vercel.app/api?username=Bellmonte)](https://github.com/Bellmonte/github-readme-stats)
+
 # 👋 Olá, eu sou o Matheus Belmonte
 
 **Desenvolvedor BI SR | IA Aplicada & Automação | Power BI • n8n • Azure**
