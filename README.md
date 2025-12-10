@@ -54,8 +54,7 @@
 </div>
 
 
-Transformo dados e processos em decisões automatizadas.  
-Hoje atuo construindo soluções que conectam **BI, IA e automação**, usando ferramentas como **Power BI, SQL, Python, Azure Synapse, Databricks e n8n** para criar pipelines escaláveis, dashboards analíticos e fluxos inteligentes que reduzem esforço manual e geram valor de negócio.
+Atuo construindo soluções que conectam **BI, IA e automação**, usando ferramentas como **Power BI, SQL, Python, Azure Synapse, Databricks e n8n** para criar pipelines, dashboards e fluxos inteligentes que reduzem esforço e geram valor de negócio.
 
 ---
 
@@ -82,32 +81,6 @@ Meu foco de médio e longo prazo é:
 
 Aqui no GitHub, você vai encontrar projetos que refletem essa linha:  
 combinação de **BI + Engenharia de Dados + Automação + Machine Learning**.
-
----
-
-## 🧠 Stack & habilidades
-
-**Linguagens & Query**
-- Python (pandas, numpy, scikit-learn, requests)
-- SQL (modelagem, otimização de consultas, views, procedures)
-
-**BI & Visualização**
-- Power BI (DAX, Power Query, Data Modeling, Row-Level Security)
-
-**Engenharia de Dados**
-- Azure Synapse
-- Azure Data Lake
-- Databricks (PySpark)
-- ETL/ELT, orquestração de pipelines
-
-**Automação & Integrações**
-- n8n (integração com APIs, orquestração, automação de processos)
-- Integrações via API (REST)
-- Webhooks, notificações (Teams, WhatsApp via API)
-
-**Método & Colaboração**
-- Scrum / Métodos ágeis
-- Git / GitHub (branches, PRs, versionamento)
 
 ---
 
