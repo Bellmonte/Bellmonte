@@ -78,7 +78,7 @@ Meu foco de médio e longo prazo é:
   - aprendam com o comportamento histórico (ML),
   - **sugiram ações** e até **executem automações** com mínima intervenção humana.
 
-Aqui no GitHub, você vai encontrar projetos que refletem essa linha:  
+Aqui no GitHub, você vai encontrar projetos que seguem essa linha:  
 combinação de **BI + Engenharia de Dados + Automação + Machine Learning**.
 
 ---
