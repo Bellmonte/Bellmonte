@@ -9,33 +9,6 @@
   <a href="https://github.com/Bellmonte"><img src="https://github-readme-stats-kohl-seven-72.vercel.app/api/top-langs/?username=Bellmonte&layout=compact&theme=dracula" alt="Top Langs" height="lazy"></a>
 </div>
 
-<div align="center" style="display: inline-block; margin-bottom: 25px;"><br>
-  <!-- Linguagens / Dados -->
-  <img align="center" alt="Belmonte-Python" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;
-  <img align="center" alt="Belmonte-Azure" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  &nbsp;
-  <img align="center" alt="Belmonte-Databricks" height="30" width="40"
-       src="https://www.svgrepo.com/show/330261/databricks.svg">
-  &nbsp;
-  <img align="center" alt="Belmonte-PowerBI" height="30" width="40"
-       src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-  &nbsp;
-  <img align="center" alt="Belmonte-n8n" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg">
-  &nbsp;
-  <img align="center" alt="Belmonte-Postman" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  &nbsp;
-  <img align="center" alt="Belmonte-Git" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  &nbsp;
-  <img align="center" alt="Belmonte-GitHub" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
-
 <br>
 
 <div align="center">
