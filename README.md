@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Olá,+sou+o+Belmonte!;Desenvolvedor+BI+Sênior;IA+Aplicada+%26+Automação;Seja+bem-vindo!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Belmonte!;Desenvolvedor+BI+S%C3%AAnior;IA+Aplicada+%26+Automa%C3%A7%C3%A3o;Seja+bem-vindo!">
   </a>
 </h1>
 
@@ -17,8 +17,12 @@
   <a href="https://www.instagram.com/bellmonte_?igsh=MWF2MnNsdzFjNnVwcA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
 </div>
 
-<div align=center>
-  <img src="https://raw.githubusercontent.com/Bellmonte/Bellmonte/output/snake.svg" alt="Snake animation">  
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bellmonte/Bellmonte/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bellmonte/Bellmonte/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/Bellmonte/Bellmonte/output/snake.svg" alt="Snake animation">
+  </picture>
 </div>
 
 <div align="center">
@@ -26,14 +30,12 @@
 </div>
 
 <div align="center">
-  
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-  
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
 </div>
 
 ---
