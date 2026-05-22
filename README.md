@@ -101,11 +101,22 @@ Aqui no GitHub você vai encontrar projetos que seguem essa linha: combinação 
 
 **Em construção** 🚧
 
-## 🧪 Backlog de futuros projetos
+## 📝 Backlog de futuros projetos
 
-Algumas ideias que pretendo desenvolver e publicar aqui:
+Roadmap dos próximos repositórios que estou estruturando:
 
-**Em construção** 🚧
+- 📊 **bi-dashboard-executivo-vendas** — Dashboard executivo end-to-end 
+  com modelagem dimensional (star schema), DAX otimizado e .pbix disponível
+- 🔧 **bi-refactor-case-study** — Estudo de caso de refatoração: 
+  antes/depois com benchmarks de performance
+- 🤖 **n8n-ai-agent-business-automation** — Agente conversacional com 
+  n8n + LLM para automação de processos de negócio
+- ☁️ **data-pipeline-medallion-databricks** — Pipeline ETL completo em 
+  arquitetura medalhão (Bronze/Silver/Gold) no Databricks
+- 🧠 **ml-churn-prediction-business** — Modelo de ML aplicado com 
+  interpretação de negócio e integração no Power BI
+- ⚡ **intelligent-orchestration-bi-ai** — Orquestração inteligente 
+  entre Power BI, n8n e LLMs para detecção de anomalias e ação automática
 
 ---
 
