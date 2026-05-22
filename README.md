@@ -105,7 +105,7 @@ Aqui no GitHub você vai encontrar projetos que seguem essa linha: combinação 
 
 Roadmap dos próximos repositórios que estou estruturando:
 
-- 📊 **bi-dashboard-executivo-vendas** — Dashboard executivo end-to-end 
+- 📊 **bi-dashboard-executivo** — Dashboard executivo end-to-end 
   com modelagem dimensional (star schema), DAX otimizado e .pbix disponível
 - 🔧 **bi-refactor-case-study** — Estudo de caso de refatoração: 
   antes/depois com benchmarks de performance
