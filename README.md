@@ -1,20 +1,23 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Belmonte!;Desenvolvedor+BI+S%C3%AAnior;IA+Aplicada+%26+Automa%C3%A7%C3%A3o;Seja+bem-vindo!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Belmonte!;Desenvolvedor+BI+S%C3%AAnior;IA+Aplicada+%26+Automa%C3%A7%C3%A3o;Agentes%2C+LLMs+e+Engenharia+de+Dados;Seja+bem-vindo!">
   </a>
 </h1>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/Bellmonte"><img src="https://github-readme-stats-kohl-seven-72.vercel.app/api?username=Bellmonte&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Bellmonte GitHub Stats" height="lazy"></a>
-  <a href="https://github.com/Bellmonte"><img src="https://github-readme-stats-kohl-seven-72.vercel.app/api/top-langs/?username=Bellmonte&layout=compact&theme=dracula&count_private=true" alt="Top Langs" height="lazy"></a>
-</div>
+<p align="center">
+  <a href="https://github.com/Bellmonte">
+    <img height="180" src="https://github-readme-stats-kohl-seven-72.vercel.app/api?username=Bellmonte&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=issues" alt="Bellmonte GitHub Stats">
+  </a>
+  <a href="https://github.com/Bellmonte">
+    <img height="180" src="https://github-readme-stats-kohl-seven-72.vercel.app/api/top-langs/?username=Bellmonte&layout=compact&theme=dracula&count_private=true&langs_count=6&hide=batchfile" alt="Top Langs">
+  </a>
+</p>
 
 <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mbelmontee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="mailto:belmonte.matheus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://www.instagram.com/bellmonte_?igsh=MWF2MnNsdzFjNnVwcA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
 </div>
 
 <div align="center">
@@ -31,98 +34,106 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Synapse">
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </div>
 
 ---
 
-São **6+ anos** construindo a stack analítica que sustenta decisões estratégicas em ambientes industriais e de serviços. Trabalho com **Power BI (DAX, Power Query/M), SQL, Python e PySpark** para modelar dados, automatizar pipelines em **Azure Synapse e Databricks**, e entregar dashboards que reduzem tempo de análise e ampliam a visibilidade de KPIs críticos.
+Transformo dados dispersos em decisão. Construo a camada analítica (modelagem, pipeline, dashboard) e, em cima dela, agentes e automações que tiram o trabalho manual da frente das pessoas.
 
-Especializei-me também em **automação inteligente e IA aplicada**, utilizando **n8n, integrações via API, LLMs e agentes conversacionais** para orquestrar processos entre ferramentas (Power BI, Teams, WhatsApp, Synapse, Databricks) e destravar ganhos reais de eficiência operacional.
+Hoje sou **Desenvolvedor BI Sênior na Unifertil**. Antes, Fundacred. São **6+ anos** em ambientes industriais e de serviços, do SQL bruto ao agente conversacional em produção.
+
+Utilizo e dissemino IA como alavanca de produtividade em atividades repetitivas.
 
 ---
 
-## 🚀 O que eu faço hoje
+## 📂 Projetos
 
-▸ **Business Intelligence & Análise de Dados**
-- Dashboards estratégicos em Power BI com modelagem dimensional e otimização de modelos semânticos
-- Análises estatísticas para interpretar tendências e identificar oportunidades de melhoria
-- Definição de KPIs estratégicos junto à liderança, fomentando cultura data-driven
+> Cada repositório com README próprio: problema de negócio, arquitetura, decisões técnicas e resultado medido.
 
-▸ **Engenharia de Dados & Cloud**
-- Sustentação e evolução de pipelines em Azure Synapse e Databricks (Spark/PySpark)
-- SQL otimizado para grandes volumes de dados
-- Monitoramento contínuo da qualidade dos dados com alertas automatizados
+### 🚧 Em construção
 
-▸ **Automação Inteligente & IA Aplicada**
-- Concepção e execução de projetos de IA aplicada, agentes conversacionais e orquestração de fluxos com LLMs
-- Automações com n8n, Python e integrações via API
-- Orquestração entre Power BI, Teams, WhatsApp, Synapse e Databricks
+Estou estruturando e documentando os projetos antes de publicar. Prefiro poucos repositórios bem contados a muitos abandonados.
 
-▸ **Liderança Técnica & Colaboração**
-- Mentoria de desenvolvedores e analistas de BI em boas práticas de modelagem, DAX, Power Query e storytelling com dados
-- Ponte técnica entre áreas de negócio e tecnologia, traduzindo "tecniquês" para a linguagem de decisão
+---
+
+## 🧠 Como eu trabalho com IA
+
+Não uso LLM como chatbot. Trato IA como componente de arquitetura, com as mesmas exigências de qualquer sistema em produção.
+
+| Camada | Como aplico |
+|---|---|
+| **Contexto** | Documentação de modelos semânticos, dicionários de negócio e bases de conhecimento vivas, para o agente responder com precisão em vez de improvisar |
+| **Ferramentas** | Servidores **MCP** e APIs para o modelo consultar dados reais, não inventar números |
+| **Guardrails** | System prompts com regras de escopo, linguagem de negócio obrigatória e proibição de inferência não fundamentada |
+| **Validação** | Camada stateless de checagem que audita a resposta antes de chegar ao usuário. Alucinação tratada como bug, não como característica |
+| **Produtização** | Agente entregue como aplicação (Node.js), com fluxos de aprovação, catálogo de recursos e observabilidade |
+
+Uso **Claude** e **Claude Code** dentro do próprio ciclo de desenvolvimento: skills reutilizáveis, documentação viva, especificação funcional, revisão de código e aceleração de entrega.
+
+---
+
+## 🛠️ Stack, e para que uso cada coisa
+
+**Analytics e modelagem**
+`Power BI` `DAX` `Power Query/M` · desenvolvimento em formato `.pbip` versionado em Git, modelagem dimensional, otimização de modelo semântico via MCP e VertiPaq.
+
+**Engenharia de dados**
+`SQL (Oracle)` `Python` `PySpark` `Azure Synapse` `Databricks` · pipelines, grandes volumes, monitoramento de qualidade com alerta automatizado.
+
+**IA e automação**
+`Claude / LLMs` `MCP` `n8n` `Node.js` `Microsoft Graph` `Power BI REST API` · agentes conversacionais, engenharia de contexto, orquestração de fluxo entre ferramentas.
+
+**Prática**
+`Git` `Scrum (PSM I)` · versionamento, code review, entrega incremental.
 
 ---
 
 ## 🎯 Para onde estou indo
 
-Meu foco de médio e longo prazo é:
-
-- **Automação inteligente em larga escala**
-- **Ciência de dados aplicada**: previsões, recomendações e classificação
-- Construção de soluções que:
-  - coletem dados automaticamente,
-  - aprendam com o comportamento histórico (ML),
-  - **sugiram ações** e até **executem automações** com mínima intervenção humana
-
-Aqui no GitHub você vai encontrar projetos que seguem essa linha: combinação de **BI + Engenharia de Dados + Automação + Machine Learning**.
+Automação inteligente em larga escala e ciência de dados aplicada. Soluções que coletam dados sozinhas, aprendem com o histórico, **sugerem ações** e **executam automações** com mínima intervenção humana. Agentes com autonomia controlada operando sobre a camada analítica da empresa.
 
 ---
 
-## 🎓 Formação & Certificações
+## 💬 Vamos conversar
 
-- 🧠 **Pós-graduação em IA** — CEDRA (Programa Inove IA, em curso)
-- 🤖 **Especialização em Machine Learning** — MIT Professional Education
-- 📊 **MBA em BI, Management & Analytics** — UniRitter
-- 💻 **Bacharelado em Ciência da Computação** — Universidade La Salle
-- 🏅 **Professional Scrum Master I (PSM I)**
+**Estou disponível para projetos de consultoria e freelance** em:
 
----
+- Construção ou resgate de dashboards e modelos semânticos em Power BI
+- Modelagem dimensional e refatoração de modelos com problema de performance
+- Pipelines de dados em Azure Synapse e Databricks
+- Automação de processos com n8n, APIs e LLMs
+- Agentes conversacionais sobre dados corporativos
 
-## 📂 Projetos em destaque
+Se você tem um problema de dados que ninguém consegue explicar, ou um processo manual que consome o time todo mês, me chama.
 
-> Os links abaixo serão exemplos de como estruturo meus projetos.  
-> Cada repositório terá README detalhado com problema de negócio, arquitetura e resultados.
-
-**Em construção** 🚧
-
-## 📝 Backlog de futuros projetos
-
-Roadmap dos próximos repositórios que estou estruturando:
-
-- 📊 **bi-dashboard-executivo** — Dashboard executivo end-to-end 
-  com modelagem dimensional (star schema), DAX otimizado e .pbix disponível
-- 🔧 **bi-refactor-case-study** — Estudo de caso de refatoração: 
-  antes/depois com benchmarks de performance
-- 🤖 **n8n-ai-agent-business-automation** — Agente conversacional com 
-  n8n + LLM para automação de processos de negócio
-- ☁️ **data-pipeline-medallion-databricks** — Pipeline ETL completo em 
-  arquitetura medalhão (Bronze/Silver/Gold) no Databricks
-- 🧠 **ml-churn-prediction-business** — Modelo de ML aplicado com 
-  interpretação de negócio e integração no Power BI
-- ⚡ **intelligent-orchestration-bi-ai** — Orquestração inteligente 
-  entre Power BI, n8n e LLMs para detecção de anomalias e ação automática
+📧 **belmonte.matheus@gmail.com**
+💼 **[linkedin.com/in/mbelmontee](https://www.linkedin.com/in/mbelmontee)**
+📍 Canoas, RS · atendimento remoto
 
 ---
 
-## 📬 Contato
+<details>
+<summary><strong>🎓 Formação e certificações</strong></summary>
 
-- 📧 E-mail: **belmonte.matheus@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/mbelmontee](https://www.linkedin.com/in/mbelmontee)
+<br>
 
-Sinta-se à vontade para me chamar para falar sobre **BI estratégico, engenharia analítica, IA aplicada** ou arquiteturas de dados na nuvem.
+- **Residência em Inteligência Artificial (Inove IA)** · CEDRA · Jan/2026 a Jul/2027, em curso
+- **Machine Learning: Tecnologia na Tomada de Decisões** · MIT Professional Education · 2025
+- **MBA em Business Intelligence, Management & Analytics** · UniRitter · 2024
+- **Bacharelado em Ciência da Computação** · Universidade La Salle · 2020
+- **Professional Scrum Master I (PSM I)** · Scrum.org · 2022
+
+Trajetória profissional completa no [LinkedIn](https://www.linkedin.com/in/mbelmontee/).
+
+</details>
