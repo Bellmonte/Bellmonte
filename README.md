@@ -59,11 +59,18 @@ Utilizo e dissemino IA como alavanca de produtividade em atividades repetitivas.
 
 ## 📂 Projetos
 
-> Cada repositório com README próprio: problema de negócio, arquitetura, decisões técnicas e resultado medido.
+> Poucos, bem contados. Cada repositório traz o problema de negócio, a arquitetura, as decisões técnicas e o resultado medido. Construídos com dados sintéticos, a mesma engenharia que rodo em produção.
 
-### 🚧 Em construção
+Meu portfólio segue a cadeia de valor do dado: um caso de negócio real percorrido de ponta a ponta, do dado cru à decisão automatizada, com peças de profundidade em cada disciplina.
 
-Estou estruturando e documentando os projetos antes de publicar. Prefiro poucos repositórios bem contados a muitos abandonados.
+|  | Camada | Peça em destaque | Status |
+|---|---|---|---|
+| 🏗️ | **Engenharia de dados** | Arquitetura de lakehouse: ingestão, tratamento e monitoramento de qualidade com alerta automatizado | 🚧 Em construção |
+| 📊 | **Análise de dados** | Case Comercial ponta a ponta, a espinha do portfólio | 🚧 Em construção |
+| 🔮 | **Ciência de dados** | Previsão de vendas e risco de crédito sobre os painéis | 🗓️ Planejado |
+| 🤖 | **IA aplicada** | Agentes e LLMs em produção: 5 padrões de engenharia de IA | 🚧 Em construção |
+
+Publico na ordem em que o conhecimento se constrói. Acompanhe a série pelo [LinkedIn](https://www.linkedin.com/in/mbelmontee/).
 
 ---
 
