@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Belmonte!;Desenvolvedor+BI+S%C3%AAnior;IA+Aplicada+%26+Automa%C3%A7%C3%A3o;Agentes%2C+LLMs+e+Engenharia+de+Dados;Seja+bem-vindo!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Belmonte!;Analista+de+BI+S%C3%AAnior;Dados+em+GCP%3A+BigQuery%2C+dbt+e+Airflow;IA+Aplicada+%26+Automa%C3%A7%C3%A3o;Seja+bem-vindo!">
   </a>
 </h1>
 
@@ -29,10 +29,14 @@
 </div>
 
 <div align="center">
-  <h2>Desenvolvedor BI Sênior | IA Aplicada & Automação | Power BI • DAX • SQL • Python • Azure</h2>
+  <h2>Analista de BI Sênior | Dados em GCP | IA Aplicada & Automação | BigQuery • dbt • Airflow • Power BI • Python</h2>
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
@@ -51,7 +55,7 @@
 
 Transformo dados dispersos em decisão. Construo a camada analítica (modelagem, pipeline, dashboard) e, em cima dela, agentes e automações que tiram o trabalho manual da frente das pessoas.
 
-Hoje sou **Desenvolvedor BI Sênior na Unifertil**. Antes, Fundacred. São **6+ anos** em ambientes industriais e de serviços, do SQL bruto ao agente conversacional em produção.
+Hoje sou **Analista de BI Sênior na Unimed Vale do Sinos**, trabalhando com a stack de dados em Google Cloud: BigQuery como data warehouse, dbt nas transformações e Airflow na orquestração. Antes passei pela Unifertil e pela Fundacred, onde construí a camada analítica em Power BI, Azure Synapse e Databricks. São **6+ anos** entre indústria, serviços e saúde, do SQL bruto ao agente conversacional em produção.
 
 Utilizo e dissemino IA como alavanca de produtividade em atividades repetitivas.
 
@@ -76,14 +80,14 @@ Publico na ordem em que o conhecimento se constrói. Acompanhe a série pelo [Li
 
 ## 🧠 Como eu trabalho com IA
 
-Não uso LLM como chatbot. Trato IA como componente de arquitetura, com as mesmas exigências de qualquer sistema em produção.
+Trato IA como componente de arquitetura, com as mesmas exigências de qualquer sistema em produção.
 
 | Camada | Como aplico |
 |---|---|
 | **Contexto** | Documentação de modelos semânticos, dicionários de negócio e bases de conhecimento vivas, para o agente responder com precisão em vez de improvisar |
 | **Ferramentas** | Servidores **MCP** e APIs para o modelo consultar dados reais, não inventar números |
 | **Guardrails** | System prompts com regras de escopo, linguagem de negócio obrigatória e proibição de inferência não fundamentada |
-| **Validação** | Camada stateless de checagem que audita a resposta antes de chegar ao usuário. Alucinação tratada como bug, não como característica |
+| **Validação** | Camada stateless de checagem que audita a resposta antes de chegar ao usuário. Alucinação é tratada como bug |
 | **Produtização** | Agente entregue como aplicação (Node.js), com fluxos de aprovação, catálogo de recursos e observabilidade |
 
 Uso **Claude** e **Claude Code** dentro do próprio ciclo de desenvolvimento: skills reutilizáveis, documentação viva, especificação funcional, revisão de código e aceleração de entrega.
@@ -92,11 +96,14 @@ Uso **Claude** e **Claude Code** dentro do próprio ciclo de desenvolvimento: sk
 
 ## 🛠️ Stack, e para que uso cada coisa
 
-**Analytics e modelagem**
-`Power BI` `DAX` `Power Query/M` · desenvolvimento em formato `.pbip` versionado em Git, modelagem dimensional, otimização de modelo semântico via MCP e VertiPaq.
+**Engenharia de dados em GCP** (dia a dia)
+`Google Cloud` `BigQuery` `dbt` `Airflow` `SQL` `Python` · extração orquestrada no Airflow, modelagem em camadas no dbt (staging, intermediária, dimensões, fatos e marts) e data warehouse no BigQuery, com merge request por ambiente.
 
-**Engenharia de dados**
-`SQL (Oracle)` `Python` `PySpark` `Azure Synapse` `Databricks` · pipelines, grandes volumes, monitoramento de qualidade com alerta automatizado.
+**Engenharia de dados em Azure**
+`SQL (Oracle)` `PySpark` `Azure Synapse` `Databricks` · pipelines de grandes volumes e monitoramento de qualidade com alerta automatizado.
+
+**Analytics e modelagem**
+`Power BI` `DAX` `Power Query/M` · minha especialidade de longa data: desenvolvimento em formato `.pbip` versionado em Git, modelagem dimensional, otimização de modelo semântico via MCP e VertiPaq.
 
 **IA e automação**
 `Claude / LLMs` `MCP` `n8n` `Node.js` `Microsoft Graph` `Power BI REST API` · agentes conversacionais, engenharia de contexto, orquestração de fluxo entre ferramentas.
@@ -114,11 +121,11 @@ Automação inteligente em larga escala e ciência de dados aplicada. Soluções
 
 ## 💬 Vamos conversar
 
-**Estou disponível para projetos de consultoria e freelance** em:
+**Estou disponível para projetos de consultoria e freelance.** Power BI continua sendo uma das minhas especialidades, então dá para contar comigo em:
 
 - Construção ou resgate de dashboards e modelos semânticos em Power BI
 - Modelagem dimensional e refatoração de modelos com problema de performance
-- Pipelines de dados em Azure Synapse e Databricks
+- Pipelines e modelagem de dados em GCP (BigQuery, dbt e Airflow), Azure Synapse e Databricks
 - Automação de processos com n8n, APIs e LLMs
 - Agentes conversacionais sobre dados corporativos
 
