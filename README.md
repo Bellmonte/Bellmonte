@@ -6,6 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/Bellmonte">
+    <img height="180" src="https://github-readme-stats-kohl-seven-72.vercel.app/api?username=Bellmonte&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=issues" alt="Bellmonte GitHub Stats">
+  </a>
+  <a href="https://github.com/Bellmonte">
     <img height="180" src="https://github-readme-stats-kohl-seven-72.vercel.app/api/top-langs/?username=Bellmonte&layout=compact&theme=dracula&count_private=true&langs_count=6&hide=batchfile" alt="Top Langs">
   </a>
 </p>
@@ -55,12 +58,12 @@ Hoje sou **Analista de BI Sênior na Unimed Vale do Sinos**. Antes passei pela U
 
 O portfólio é organizado em quatro pilares, que são as frentes em que eu atuo.
 
-|  | Pilar | O que mostra | Repositório | Status |
-|---|---|---|---|---|
-| 📊 | **Power BI analítico** | construção, refatoração e manutenção de painéis, e análise que responde uma pergunta de negócio | [servicos-power-bi](https://github.com/Bellmonte/servicos-power-bi) | ✅ Publicado |
-| 🧭 | **Sistema de trabalho assistido** | um repositório com Claude Code que conduz demanda, registra o que foi feito e guarda o que se aprendeu | [claude-caderno](https://github.com/Bellmonte/claude-caderno) | ✅ Publicado |
-| 🛰️ | **Hub de dados** | portal próprio com painéis, agentes que conversam com os dados, área administrativa e monitoramento | | 🚧 Em construção |
-| 🔮 | **Ciência de dados** | modelos e análises que nascem dos estudos e da prática | | 🌱 Cresce com os estudos |
+|  | Pilar | O que mostra | Repositório |
+|---|---|---|---|
+| 📊 | **Power BI analítico** | construção, refatoração e manutenção de painéis, e análise que responde uma pergunta de negócio | [servicos-power-bi](https://github.com/Bellmonte/servicos-power-bi) |
+| 🧭 | **Sistema de trabalho assistido** | um repositório com Claude Code que conduz demanda, registra o que foi feito e guarda o que se aprendeu | [claude-caderno](https://github.com/Bellmonte/claude-caderno) |
+| 🛰️ | **Hub de dados** | portal próprio com painéis, agentes que conversam com os dados, área administrativa e monitoramento | em breve |
+| 🔮 | **Ciência de dados** | modelos e análises que nascem dos estudos e da prática | em breve |
 
 Todas as peças usam a base do [port-gerador-dados](https://github.com/Bellmonte/port-gerador-dados), um gerador de dado sintético com feed diário agendado.
 
