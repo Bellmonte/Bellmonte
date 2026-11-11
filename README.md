@@ -61,11 +61,11 @@ O portfólio é organizado em quatro pilares, que são as frentes em que eu atuo
 |  | Pilar | O que mostra | Repositório |
 |---|---|---|---|
 | 📊 | **Power BI analítico** | construção, refatoração e manutenção de painéis, e análise que responde uma pergunta de negócio | [servicos-power-bi](https://github.com/Bellmonte/servicos-power-bi) |
-| 🧭 | **Sistema de trabalho assistido** | um repositório com Claude Code que conduz demanda, registra o que foi feito e guarda o que se aprendeu | [claude-caderno](https://github.com/Bellmonte/claude-caderno) |
+| 🧭 | **Sistema de trabalho assistido** | um repositório com Claude Code que conduz demanda, registra o que foi feito e guarda o que se aprendeu | [sistema-assistido](https://github.com/Bellmonte/sistema-assistido) |
 | 🛰️ | **Hub de dados** | portal próprio com painéis, agentes que conversam com os dados, área administrativa e monitoramento | em breve |
 | 🔮 | **Ciência de dados** | modelos e análises que nascem dos estudos e da prática | em breve |
 
-Todas as peças usam a base do [port-gerador-dados](https://github.com/Bellmonte/port-gerador-dados), um gerador de dado sintético com feed diário agendado.
+Todas as peças usam a base do [gerador-de-dados](https://github.com/Bellmonte/gerador-de-dados), um gerador de dado sintético com feed diário agendado.
 
 ---
 
